@@ -29,3 +29,7 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/tarun-bandi/compProg/tree/master/0165-compare-version-numbers) |
 | [2128-reverse-prefix-of-word](https://github.com/tarun-bandi/compProg/tree/master/2128-reverse-prefix-of-word) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0237-delete-node-in-a-linked-list) |
