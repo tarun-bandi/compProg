@@ -5,6 +5,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tarun-bandi/compProg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [0917-boats-to-save-people](https://github.com/tarun-bandi/compProg/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0330-patching-array](https://github.com/tarun-bandi/compProg/tree/master/0330-patching-array) |
 
 
 # Two Pointers
@@ -24,6 +25,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/tarun-bandi/compProg/tree/master/0330-patching-array) |
 | [0917-boats-to-save-people](https://github.com/tarun-bandi/compProg/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tarun-bandi/compProg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
