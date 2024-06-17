@@ -13,6 +13,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/tarun-bandi/compProg/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/tarun-bandi/compProg/tree/master/0165-compare-version-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [0917-boats-to-save-people](https://github.com/tarun-bandi/compProg/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/tarun-bandi/compProg/tree/master/2128-reverse-prefix-of-word) |
 # Sorting
@@ -42,3 +43,11 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
