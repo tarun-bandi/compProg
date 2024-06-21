@@ -7,6 +7,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0330-patching-array](https://github.com/tarun-bandi/compProg/tree/master/0330-patching-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
+| [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
 
 
 # Two Pointers
@@ -54,3 +55,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
