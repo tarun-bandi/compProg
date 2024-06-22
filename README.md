@@ -8,6 +8,7 @@
 | [0330-patching-array](https://github.com/tarun-bandi/compProg/tree/master/0330-patching-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
 | [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
 
 
 # Two Pointers
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
@@ -59,3 +61,8 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
+# Hash Table
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
