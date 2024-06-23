@@ -10,6 +10,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 
 
 # Two Pointers
@@ -64,7 +65,24 @@
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Hash Table
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
