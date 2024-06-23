@@ -11,6 +11,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0033-search-in-rotated-sorted-array) |
 
 
 # Two Pointers
@@ -57,6 +58,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
