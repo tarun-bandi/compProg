@@ -9,6 +9,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
 | [1138-grumpy-bookstore-owner](https://github.com/tarun-bandi/compProg/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/tarun-bandi/compProg/tree/master/1370-count-number-of-nice-subarrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 
 
 # Two Pointers
@@ -55,6 +56,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
 # Sliding Window
