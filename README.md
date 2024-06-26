@@ -36,6 +36,7 @@
 | [0330-patching-array](https://github.com/tarun-bandi/compProg/tree/master/0330-patching-array) |
 | [0917-boats-to-save-people](https://github.com/tarun-bandi/compProg/tree/master/0917-boats-to-save-people) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tarun-bandi/compProg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # String
 |  |
@@ -88,3 +89,23 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
