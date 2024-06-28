@@ -96,10 +96,12 @@
 # Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/tarun-bandi/compProg/tree/master/0199-binary-tree-right-side-view) |
 | [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/tarun-bandi/compProg/tree/master/0199-binary-tree-right-side-view) |
 | [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
@@ -108,8 +110,13 @@
 # Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/tarun-bandi/compProg/tree/master/0199-binary-tree-right-side-view) |
 | [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
 # Graph
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/tarun-bandi/compProg/tree/master/1916-find-center-of-star-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/tarun-bandi/compProg/tree/master/0199-binary-tree-right-side-view) |
