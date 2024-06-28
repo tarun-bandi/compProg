@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0033-search-in-rotated-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
 
 
 # Two Pointers
@@ -109,6 +110,7 @@
 # Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
 | [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
@@ -124,3 +126,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/tarun-bandi/compProg/tree/master/0199-binary-tree-right-side-view) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
