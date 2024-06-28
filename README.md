@@ -30,6 +30,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1675-magnetic-force-between-two-balls](https://github.com/tarun-bandi/compProg/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tarun-bandi/compProg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tarun-bandi/compProg/tree/master/2379-maximum-total-importance-of-roads) |
 # Greedy
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/tarun-bandi/compProg/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/tarun-bandi/compProg/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tarun-bandi/compProg/tree/master/2379-maximum-total-importance-of-roads) |
 # String
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tarun-bandi/compProg/tree/master/2379-maximum-total-importance-of-roads) |
 # Ordered Set
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/tarun-bandi/compProg/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/tarun-bandi/compProg/tree/master/2379-maximum-total-importance-of-roads) |
 # Breadth-First Search
 |  |
 | ------- |
