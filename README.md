@@ -140,6 +140,7 @@
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +158,12 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
+## String
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
