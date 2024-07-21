@@ -166,4 +166,20 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
