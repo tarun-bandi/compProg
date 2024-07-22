@@ -135,6 +135,7 @@
 ## Array
 |  |
 | ------- |
+| [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
 |  |
@@ -189,4 +190,8 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
