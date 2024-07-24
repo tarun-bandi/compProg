@@ -164,6 +164,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/tarun-bandi/compProg/tree/master/0038-count-and-say) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
 | [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
