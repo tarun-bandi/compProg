@@ -164,6 +164,7 @@
 ## String
 |  |
 | ------- |
+| [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -196,4 +197,5 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
+| [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
