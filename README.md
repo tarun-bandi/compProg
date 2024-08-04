@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
 ## Breadth-First Search
 |  |
@@ -210,4 +211,16 @@
 |  |
 | ------- |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
