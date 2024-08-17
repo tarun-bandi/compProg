@@ -143,6 +143,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/tarun-bandi/compProg/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +220,7 @@
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
 | ------- |
