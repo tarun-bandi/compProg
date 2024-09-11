@@ -147,6 +147,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 ## Matrix
 |  |
 | ------- |
