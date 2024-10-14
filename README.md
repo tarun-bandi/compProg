@@ -178,6 +178,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tarun-bandi/compProg/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tarun-bandi/compProg/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -301,6 +302,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
