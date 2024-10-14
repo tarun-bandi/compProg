@@ -156,6 +156,7 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
+| [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
 ## String
