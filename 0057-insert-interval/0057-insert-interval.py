@@ -12,7 +12,7 @@ class Solution:
             else:
                 newInterval = [min(newInterval[0], x), max(newInterval[1], y)]
             
-        return res
+        return res + [newInterval]
 
 
 
