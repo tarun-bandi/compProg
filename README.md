@@ -172,6 +172,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1333-sort-the-jumbled-numbers](https://github.com/tarun-bandi/compProg/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -206,6 +207,7 @@
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tarun-bandi/compProg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tarun-bandi/compProg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
@@ -316,6 +318,7 @@
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
+| [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
