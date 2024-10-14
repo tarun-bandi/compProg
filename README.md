@@ -135,6 +135,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun-bandi/compProg/tree/master/0084-largest-rectangle-in-histogram) |
@@ -314,6 +315,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
