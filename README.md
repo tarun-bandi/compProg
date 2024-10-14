@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun-bandi/compProg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
