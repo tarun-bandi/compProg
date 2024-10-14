@@ -138,6 +138,7 @@
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun-bandi/compProg/tree/master/0084-largest-rectangle-in-histogram) |
+| [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
@@ -197,6 +198,7 @@
 | [0038-count-and-say](https://github.com/tarun-bandi/compProg/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/tarun-bandi/compProg/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
@@ -295,6 +298,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
@@ -348,4 +352,12 @@
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
