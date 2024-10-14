@@ -203,6 +203,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -256,6 +258,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
