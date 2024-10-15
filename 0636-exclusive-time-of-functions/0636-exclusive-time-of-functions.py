@@ -16,7 +16,6 @@ class Solution:
             if callType == "start":
                 if stack:
                     prevFunc, prevTime = stack[-1]
-                    print(prevTime, currTime)
                     results[prevFunc] += currTime - prevTime #CHECK FOR OBO
                 stack.append((function, currTime))
             else:
