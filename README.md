@@ -141,6 +141,7 @@
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun-bandi/compProg/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/tarun-bandi/compProg/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/tarun-bandi/compProg/tree/master/0200-number-of-islands) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -388,6 +390,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
