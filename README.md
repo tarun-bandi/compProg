@@ -193,6 +193,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-bandi/compProg/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tarun-bandi/compProg/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -263,6 +264,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
 |  |
@@ -333,6 +335,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -354,6 +357,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 ## Recursion
 |  |
 | ------- |
