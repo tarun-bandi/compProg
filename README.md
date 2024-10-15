@@ -146,6 +146,7 @@
 | [0162-find-peak-element](https://github.com/tarun-bandi/compProg/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/tarun-bandi/compProg/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
@@ -392,6 +393,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
