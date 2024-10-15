@@ -211,6 +211,7 @@
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/tarun-bandi/compProg/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
@@ -347,6 +348,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
