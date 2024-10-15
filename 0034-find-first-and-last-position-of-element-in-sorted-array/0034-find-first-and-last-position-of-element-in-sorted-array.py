@@ -13,7 +13,7 @@ class Solution:
                 else: #equal falls into this case
                     hi = mid
 
-            return lo #if there is an issue check here
+            return hi #if there is an issue check here
         
         def findLastInstance(target, nums):
             lo = 0
