@@ -158,6 +158,7 @@
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
+| [1028-interval-list-intersections](https://github.com/tarun-bandi/compProg/tree/master/1028-interval-list-intersections) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tarun-bandi/compProg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
@@ -396,6 +397,7 @@
 | [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
+| [1028-interval-list-intersections](https://github.com/tarun-bandi/compProg/tree/master/1028-interval-list-intersections) |
 ## Monotonic Stack
 |  |
 | ------- |
