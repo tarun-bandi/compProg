@@ -6,29 +6,19 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        #just do bfs and output rightmost node by giving each node some kinda rank......
-
-        q = collections.deque()
-        q.append((root, 0))
+        queue = deque([root])
         if root == None:
             return None
-        res = []
-        while q:
-            highest = float("-inf")
-            maxNode = None
-            copy = collections.deque()
-            while q:
-                node, lvl = q.popleft()
-                maxNode = node
-                if node.left != None:
-                    copy.append((node.left, lvl - 1))
-                if node.right != None:
-                    copy.append((node.right, lvl + 1))
-            q = copy
-            res.append(maxNode.val)
-        return res
+        result = []
 
-                
-                
-
-        
+        while queue:
+            last = -1
+            for _ in range(len(queue)):
+                node = queue.popleft()
+                last = node.val
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+            result.append(last)
+        return result
