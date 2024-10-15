@@ -180,6 +180,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/tarun-bandi/compProg/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -192,6 +193,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
@@ -311,6 +313,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 ## Hash Table
