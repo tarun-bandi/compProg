@@ -28,9 +28,9 @@ class Solution:
         res = []
         for c in range(left, right + 1):
             cur = []
-            heapify(columnToNodes[c])
-            while columnToNodes[c]:
-                _, val = heappop(columnToNodes[c])
+            columnToNodes[c].sort()
+            for c in columnToNodes[c]:
+                _, val = c
                 cur.append(val)
             res.append(cur)
         return res
