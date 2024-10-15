@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun-bandi/compProg/tree/master/0084-largest-rectangle-in-histogram) |
@@ -171,6 +172,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tarun-bandi/compProg/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/tarun-bandi/compProg/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/tarun-bandi/compProg/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
@@ -331,6 +334,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tarun-bandi/compProg/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
