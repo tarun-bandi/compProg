@@ -163,6 +163,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tarun-bandi/compProg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
 | [1333-sort-the-jumbled-numbers](https://github.com/tarun-bandi/compProg/tree/master/1333-sort-the-jumbled-numbers) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tarun-bandi/compProg/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -249,6 +250,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tarun-bandi/compProg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tarun-bandi/compProg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tarun-bandi/compProg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tarun-bandi/compProg/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
@@ -403,6 +405,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun-bandi/compProg/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tarun-bandi/compProg/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tarun-bandi/compProg/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Queue
 |  |
