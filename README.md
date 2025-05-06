@@ -167,6 +167,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2048-build-array-from-permutation](https://github.com/tarun-bandi/compProg/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/tarun-bandi/compProg/tree/master/2262-solving-questions-with-brainpower) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
+| [2048-build-array-from-permutation](https://github.com/tarun-bandi/compProg/tree/master/2048-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tarun-bandi/compProg/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
