@@ -250,6 +250,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tarun-bandi/compProg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3617-find-the-original-typed-string-i](https://github.com/tarun-bandi/compProg/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
