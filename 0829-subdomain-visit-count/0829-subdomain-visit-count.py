@@ -2,8 +2,8 @@ class Solution:
     def subdomainVisits(self, cpdomains: List[str]) -> List[str]:
         counts = collections.defaultdict(int)
         for cpdomain in cpdomains:
-            count, website = cpdomain.split(" ")
-            count = int(count)
+            visit_count, website = cpdomain.split(" ")
+            visit_count = int(visit_count)
             subdomains = website.split(".")
             current_domain = ""
             subdomains.reverse()
@@ -12,7 +12,7 @@ class Solution:
                     current_domain = f"{subdomain}.{current_domain}"
                 else:
                     current_domain = subdomain
-                counts[current_domain] += count
+                counts[current_domain] += visit_count
         
         visit_counts = []
         for website, count in counts.items():
