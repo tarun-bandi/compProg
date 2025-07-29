@@ -287,6 +287,7 @@
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 ## Breadth-First Search
@@ -304,6 +305,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
@@ -311,12 +313,14 @@
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
 | ------- |
