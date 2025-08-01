@@ -162,6 +162,7 @@
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1028-interval-list-intersections](https://github.com/tarun-bandi/compProg/tree/master/1028-interval-list-intersections) |
+| [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tarun-bandi/compProg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
@@ -314,6 +315,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 ## Graph
@@ -364,6 +366,7 @@
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
+| [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Tree
 |  |
