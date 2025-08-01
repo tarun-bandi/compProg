@@ -1,12 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-
-        complement = dict()
+        complements = dict()
 
         for i, c in enumerate(nums):
-            if c in complement:
-                return [complement[c], i]
-            complement[target - c] = i
+            if c not in complements:
+                complements[target - c] = i
+            else:
+                return (i, complements[c])
+
+
         
-        return [-1, -1]
