@@ -195,6 +195,7 @@
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -241,6 +242,7 @@
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
@@ -410,6 +412,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
