@@ -1,29 +1,35 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        graph = defaultdict(list)
-
-        indegree = defaultdict(int)
-
-        for second, first in prerequisites:
-            graph[first].append(second)
-            indegree[second] += 1
         
+        order = []
+
+        graph = collections.defaultdict(list)
+        indegree = collections.defaultdict(int)
+
+        for course, prereq in prerequisites:
+            graph[prereq].append(course)
+            indegree[course] += 1
         
-        queue = deque()
+        queue = collections.deque()
+
         for course in range(numCourses):
             if indegree[course] == 0:
                 queue.append(course)
         
-        ordering = [0] * numCourses
-        current_course = 0
+
         while queue:
-            finished = queue.popleft()
-            ordering[current_course] = finished
-            for neighbor in graph[finished]:
-                indegree[neighbor] -= 1
-                if indegree[neighbor] == 0:
-                    queue.append(neighbor)
-            current_course += 1
+            current_course = queue.popleft()
+            order.append(current_course)
+            for successor in graph[current_course]:
+                indegree[successor] -= 1
+
+                if indegree[successor] == 0:
+                    queue.append(successor)        
+
+        return order if len(order) == numCourses else []
         
-        return ordering if current_course == numCourses else []
+
+        
+
+
 
