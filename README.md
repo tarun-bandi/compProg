@@ -241,6 +241,7 @@
 | [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
+| [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
@@ -364,6 +365,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
