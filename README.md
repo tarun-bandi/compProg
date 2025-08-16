@@ -183,6 +183,7 @@
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tarun-bandi/compProg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun-bandi/compProg/tree/master/2215-finding-3-digit-even-numbers) |
+| [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Linked List
 |  |
 | ------- |
