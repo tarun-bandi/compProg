@@ -276,6 +276,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tarun-bandi/compProg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tarun-bandi/compProg/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3617-find-the-original-typed-string-i](https://github.com/tarun-bandi/compProg/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
@@ -316,6 +317,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tarun-bandi/compProg/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tarun-bandi/compProg/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -435,6 +438,7 @@
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tarun-bandi/compProg/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Recursion
 |  |
 | ------- |
