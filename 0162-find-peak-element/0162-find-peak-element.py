@@ -20,8 +20,6 @@ class Solution:
         
         while lo < hi:
             mid = (lo + hi) // 2
-            if is_peak(mid):
-                return mid
             
             if nums[mid] < nums[mid + 1]:
                 lo = mid + 1
