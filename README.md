@@ -189,6 +189,7 @@
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tarun-bandi/compProg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Greedy
 |  |
@@ -281,6 +282,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tarun-bandi/compProg/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/tarun-bandi/compProg/tree/master/3617-find-the-original-typed-string-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
@@ -472,6 +474,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun-bandi/compProg/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -539,6 +542,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
