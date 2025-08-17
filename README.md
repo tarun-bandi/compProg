@@ -175,6 +175,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tarun-bandi/compProg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
 | [1333-sort-the-jumbled-numbers](https://github.com/tarun-bandi/compProg/tree/master/1333-sort-the-jumbled-numbers) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tarun-bandi/compProg/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/tarun-bandi/compProg/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
@@ -492,6 +493,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sliding Window
 |  |
@@ -500,16 +502,19 @@
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tarun-bandi/compProg/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
@@ -572,4 +577,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
