@@ -137,6 +137,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/tarun-bandi/compProg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
@@ -476,6 +477,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tarun-bandi/compProg/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/tarun-bandi/compProg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/tarun-bandi/compProg/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
