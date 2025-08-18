@@ -161,6 +161,7 @@
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/tarun-bandi/compProg/tree/master/0636-exclusive-time-of-functions) |
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tarun-bandi/compProg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -218,6 +220,7 @@
 | [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -479,6 +482,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
@@ -520,6 +524,7 @@
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
@@ -528,6 +533,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/tarun-bandi/compProg/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
