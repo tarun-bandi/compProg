@@ -1,44 +1,45 @@
 class TrieNode:
     def __init__(self):
         self.children = dict()
-        self.end_of_word = False
 
-class Solution:
-    def insert(self, trie: TrieNode, word: str):
-
-        for c in word:
-            trie.children[c] = trie.children.get(c, TrieNode())
-            trie = trie.children[c]
-        trie.end_of_word = True
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
     
-    def find_match_length(self, trie: TrieNode, word: str) -> int:
-        length = 0
+    def insert(self, word):
+        node = self.root
         for c in word:
-            if c in trie.children:
+            if c not in node.children:
+                node.children[c] = TrieNode()
+            node = node.children[c]
+
+    
+    def find_prefix_len(self, word):
+
+        length = 0
+        node = self.root
+        for c in word:
+            if c in node.children:
+                node = node.children[c]
                 length += 1
-                trie = trie.children[c]
             else:
-                return length
+                break
+
         return length
-
-        
-    def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
-        root = TrieNode()
-
-        for num in arr1:
-            self.insert(root, str(num))
-        
-        longest_match = 0
-
-        for num in arr2:
-            length = self.find_match_length(root, str(num))
-            longest_match = max(longest_match, length)
-        
-        return longest_match
             
 
 
 
-
+class Solution:
+    def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
+        root = Trie()
+        prefix_len = 0 
+        for word in arr1:
+            root.insert(str(word))
         
+        for word in arr2:
+            prefix_len = max(prefix_len, root.find_prefix_len(str(word)))
+        
+        return prefix_len
+
         
