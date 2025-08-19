@@ -1,31 +1,38 @@
 class Solution:
     def smallestRange(self, nums: List[List[int]]) -> List[int]:
         
-        minimum_elements = []
-        left = float("inf")
-        right = float("-inf")
+        left, right = float("inf"), float("-inf")
+        pq = []
 
-        for i, num in enumerate(nums):
-            element = num[0]
-            heapq.heappush(minimum_elements, (element, i, 0)) # insert element, list_num, position in list
-            left = min(left, element)
-            right = max(right, element)
+        for idx, sortedlist in enumerate(nums):
+            first_element = sortedlist[0]
 
-        res = [left, right]
+            heapq.heappush(pq, (first_element, idx, 0))
+
+            left = min(left, first_element)
+            right = max(right, first_element)
+        
+        result = [left, right]
+        
         while True:
-            _, list_num, pos = heapq.heappop(minimum_elements)
-            if pos + 1 == len(nums[list_num]):
-                return res
-            
+            _, list_number, pos = heapq.heappop(pq)
+
             pos += 1
-            new_element = nums[list_num][pos]
-            right = max(right, new_element)
-            heapq.heappush(minimum_elements, (new_element, list_num, pos))
-            left = minimum_elements[0][0]
-            if right - left < res[1] - res[0]:
-                res = [left, right]
+            if pos >= len(nums[list_number]):
+                return result
+
+            next_element = nums[list_number][pos]
+
+            heapq.heappush(pq, (next_element, list_number, pos))
+            min_element = pq[0][0]
+            left = min_element
+            right = max(right, next_element)
+        
+            if right - left < result[1] - result[0]:
+                result = [left, right]
         
         return -1
 
 
-            
+
+
