@@ -1,21 +1,26 @@
 from sortedcontainers import SortedList
 class Solution:
     def minAbsoluteDifference(self, nums: List[int], x: int) -> int:
-        
-        sorted_list = SortedList()
-        answer = float("inf")
 
+        sl = SortedList()
+        smallest_difference = float("inf")
         for i in range(len(nums)):
-
             if i >= x:
-                valid_candidate = i - x
-                sorted_list.add(nums[valid_candidate])
-            
-            index = sorted_list.bisect_left(nums[i])
+                sl.add(nums[i - x])
+            if sl:
+                closest_idx = sl.bisect_left(nums[i])
+                closest_element = 0
+                if closest_idx < len(sl):
+                    closest_element = sl[closest_idx]
+                    smallest_difference = min(smallest_difference, abs(closest_element - nums[i]))
+                    
+                closest_element = sl[closest_idx - 1]
+                smallest_difference = min(smallest_difference, abs(closest_element - nums[i]))
 
-            if index < len(sorted_list):
-                answer = min(answer, abs(sorted_list[index] - nums[i]))
-            if index - 1 >= 0:
-                answer = min(answer, abs(sorted_list[index - 1] - nums[i]))
+                
+
+        return smallest_difference
+
+
+                
         
-        return answer
