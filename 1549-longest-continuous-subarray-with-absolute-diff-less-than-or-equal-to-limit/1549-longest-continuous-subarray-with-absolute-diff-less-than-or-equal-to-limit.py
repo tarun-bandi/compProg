@@ -1,19 +1,31 @@
-from sortedcontainers import SortedDict
 class Solution:
     def longestSubarray(self, nums: List[int], limit: int) -> int:
         
-        window = SortedDict()
+        min_queue = collections.deque()
+        max_queue = collections.deque()
         left = 0
-        longest_window = 0
+        length_subarray = 0
+
         for r in range(len(nums)):
-            window[nums[r]] = window.get(nums[r], 0) + 1
+            
+            # Decreasing
+            while max_queue and max_queue[-1] < nums[r]:
+                max_queue.pop()
+            max_queue.append(nums[r])
 
-            while window.peekitem(-1)[0] - window.peekitem(0)[0] > limit:
+            #Increasing
+            while min_queue and min_queue[-1] > nums[r]:
+                min_queue.pop()
+            min_queue.append(nums[r])
 
-                window[nums[left]] -= 1
-                if window[nums[left]] == 0:
-                    del window[nums[left]]
+            while max_queue[0] - min_queue[0] > limit:
+
+                if max_queue[0] == nums[left]:
+                    max_queue.popleft()
+                
+                if min_queue[0] == nums[left]:
+                    min_queue.popleft()
                 left += 1
-            longest_window = max(longest_window, r - left + 1)
-        return longest_window
-
+            
+            length_subarray = max(length_subarray, r - left + 1)
+        return length_subarray
