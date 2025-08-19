@@ -195,6 +195,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/tarun-bandi/compProg/tree/master/2262-solving-questions-with-brainpower) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tarun-bandi/compProg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tarun-bandi/compProg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/tarun-bandi/compProg/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
@@ -264,6 +265,7 @@
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tarun-bandi/compProg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
