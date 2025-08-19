@@ -1,8 +1,5 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        
-        order = []
-
         graph = collections.defaultdict(list)
         indegree = collections.defaultdict(int)
 
@@ -15,21 +12,17 @@ class Solution:
         for course in range(numCourses):
             if indegree[course] == 0:
                 queue.append(course)
-        
 
+        answer = []  
         while queue:
-            current_course = queue.popleft()
-            order.append(current_course)
-            for successor in graph[current_course]:
+            curr_course = queue.popleft()
+            answer.append(curr_course)
+
+            for successor in graph[curr_course]:
                 indegree[successor] -= 1
-
                 if indegree[successor] == 0:
-                    queue.append(successor)        
-
-        return order if len(order) == numCourses else []
+                    queue.append(successor)
         
-
+        return answer if len(answer) == numCourses else []
         
-
-
 
