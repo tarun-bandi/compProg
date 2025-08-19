@@ -1,16 +1,18 @@
 class Solution:
     def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
-        n = len(startTime)
-        jobs = sorted(list(zip(startTime, endTime, profit)))
-        startTime = [jobs[i][0] for i in range(n)]
+        
+        events = sorted(zip(startTime, endTime, profit))
+        
 
-        @lru_cache(None)
-        def dp(i):
-            if i == n: return 0
-            ans = dp(i + 1)  # Choice 1: Don't pick
+        @cache
+        def dp(time: int) -> int:
+            if time == len(events):
+                return 0
+                
+            start, end, profit = events[time]
+            next_event_idx = bisect.bisect_left(events, (end, 0, 0))
 
-            j = bisect_left(startTime, jobs[i][1])
-            ans = max(ans, dp(j) + jobs[i][2])  # Choice 2: Pick
-            return ans
-
+            return max(profit + dp(next_event_idx), dp(time + 1))
+        
         return dp(0)
+
