@@ -160,6 +160,7 @@
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
+| [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
@@ -326,6 +327,7 @@
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
@@ -349,6 +351,7 @@
 | [0200-number-of-islands](https://github.com/tarun-bandi/compProg/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
+| [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
@@ -417,6 +420,7 @@
 | [0064-minimum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/tarun-bandi/compProg/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/tarun-bandi/compProg/tree/master/0200-number-of-islands) |
+| [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
