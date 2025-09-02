@@ -6,13 +6,15 @@ public:
 
         for (int i = 0; i < nums.size(); i++){
             int num = nums[i];
-
-            if (complements.find(num) != complements.end()){
-                return {i, complements[num]};
+            auto complement_index = complements.find(num);
+            if (complement_index != complements.end()){
+                return {i, complement_index->second};
             }
             complements[target - num] = i;
         }
-        return {-1, 1};
+        
+        auto dummy = {-1, 1};
+        return dummy;
 
     }
 };
