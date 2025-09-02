@@ -154,6 +154,7 @@
 | [0213-house-robber-ii](https://github.com/tarun-bandi/compProg/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/tarun-bandi/compProg/tree/master/0317-shortest-distance-from-all-buildings) |
@@ -281,6 +282,7 @@
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
@@ -631,4 +633,8 @@
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/tarun-bandi/compProg/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
