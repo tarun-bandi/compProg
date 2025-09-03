@@ -4,25 +4,24 @@ class Solution:
 
         # Count houses
 
-        houses = []
-        for x in range(M):
-            for y in range(N):
-                if grid[x][y] == 1:
-                    houses.append((x, y))
-        
+        houses = [(x, y) for x in range(M) for y in range(N) if grid[x][y] == 1]
+
         houses_seen = [[0 for _ in range(N)] for _ in range(M)]
         distances = [[0 for _ in range(N)] for _ in range(M)]
+        neighbors = [(0, 1), (-1, 0), (0, -1), (1, 0)]
 
-        def bfs(x: int, y: int, house_number: int) -> int:
+        def can_visit(x: int, y: int, house_number) -> bool:
+            return 0 <= x < M and 0 <= y < N and houses_seen[x][y] == house_number - 1 and grid[x][y] == 0
+
+        def bfs(x: int, y: int, house_number: int) -> None:
             # Make a queue
             to_visit = collections.deque()
+            to_visit.append((x, y, 0))
 
             # While queue
-            to_visit.append((x, y, 0))
             while to_visit:
                 r, c, distance = to_visit.popleft()
 
-                neighbors = [(0, 1), (-1, 0), (0, -1), (1, 0)]
                 if houses_seen[r][c] == house_number:
                     continue
                 houses_seen[r][c] += 1
@@ -32,13 +31,9 @@ class Solution:
                 for dx, dy in neighbors:
                     new_x, new_y = r + dx, c + dy
                     # if cell hasnt been visited & house is valid visit cell and add to q
-                    if 0 <= new_x < M and 0 <= new_y < N and houses_seen[new_x][new_y] == house_number - 1 and grid[new_x][new_y] == 0:
+                    if can_visit(new_x, new_y, house_number):
                         to_visit.append((new_x, new_y, distance + 1))
 
-
-           
-
-        
         # for each house, run BFS
         for i, (x, y) in enumerate(houses):
             bfs(x, y, i + 1)
