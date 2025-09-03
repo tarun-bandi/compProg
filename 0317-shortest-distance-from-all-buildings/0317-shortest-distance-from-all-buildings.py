@@ -49,6 +49,5 @@ class Solution:
             for y in range(N):
                 if grid[x][y] == 0 and houses_seen[x][y] == len(houses):
                     min_dist = min(min_dist, distances[x][y])
-        print(distances, "\n", grid)
         return min_dist if min_dist != float("inf") else -1
         # return if not seen.
