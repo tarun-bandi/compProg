@@ -1,37 +1,36 @@
+import bisect
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        #Binary search
+        if len(nums) == 0:
+            return [-1, -1]
+        lo = 0
 
-        def findFirstInstance(target, nums):
-            lo = 0
-            hi = len(nums)
+        hi = len(nums) - 1
 
-            while lo < hi:
-                mid = (lo + hi) // 2
-                if nums[mid] < target:
-                    lo = mid + 1
-                else: #equal falls into this case
-                    hi = mid
+        while lo <= hi:
+            mid = (lo + hi) // 2
 
-            return hi #if there is an issue check here
+            if nums[mid] >= target:
+                hi = mid - 1
+            else:
+                lo = mid + 1
         
-        def findLastInstance(target, nums):
-            lo = 0
-            hi = len(nums)
+        first = lo
 
-            while lo < hi:
-                mid = (lo + hi) // 2
-                if nums[mid] <= target:
-                    lo = mid + 1
-                else: #equal falls into this case
-                    hi = mid
+        lo = 0
 
-            return lo - 1 #if there is an issue check here
+        hi = len(nums) - 1
+
+        while lo <= hi:
+            mid = (lo + hi) // 2
+
+            if nums[mid] > target:
+                hi = mid - 1
+            else:
+                lo = mid + 1
         
-        first = findFirstInstance(target, nums)
-        last = findLastInstance(target, nums)
-        if 0 <= first < len(nums) and nums[first] == target and 0 <= last < len(nums) and nums[last] == target:
+        last = hi
+
+        if 0 <= first < len(nums) and first <= last and nums[first] == target:
             return [first, last]
         return [-1, -1]
-
-
