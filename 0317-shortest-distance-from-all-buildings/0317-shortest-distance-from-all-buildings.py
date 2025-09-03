@@ -1,41 +1,54 @@
 class Solution:
     def shortestDistance(self, grid: List[List[int]]) -> int:
-        N, M = len(grid), len(grid[0])
-        buildings = collections.deque()
+        M, N = len(grid), len(grid[0])
 
-        for r in range(N):
-            for c in range(M):
-                if grid[r][c] == 1:
-                    buildings.append((r, c))
+        # Count houses
+
+        houses = []
+        for x in range(M):
+            for y in range(N):
+                if grid[x][y] == 1:
+                    houses.append((x, y))
         
-        solution_grid = [[0 for _ in range(M)] for _ in range(N)]
-        def bfs(r: int, c: int, num: int):
-            queue = collections.deque()
+        houses_seen = [[0 for _ in range(N)] for _ in range(M)]
+        distances = [[0 for _ in range(N)] for _ in range(M)]
 
-            queue.append((r, c, 0))
-            directions = [(0, 1), (1, 0), (-1, 0), (0, -1)]
-            while queue:
-                row, col, distance = queue.popleft()
+        def bfs(x: int, y: int, house_number: int) -> int:
+            # Make a queue
+            to_visit = collections.deque()
 
-                for dx, dy in directions:
-                    if 0 <= row + dx < N and 0 <= col + dy < M and grid[row + dx][col + dy] == -(num - 1):
-                        solution_grid[row + dx][col + dy] += distance + 1
-                        queue.append((row + dx, col + dy, distance + 1))
-                        grid[row + dx][col + dy] = -num
+            # While queue
+            to_visit.append((x, y, 0))
+            while to_visit:
+                r, c, distance = to_visit.popleft()
 
-        for i, (r, c) in enumerate(buildings):
-            bfs(r, c, i + 1)
+                neighbors = [(0, 1), (-1, 0), (0, -1), (1, 0)]
+                if houses_seen[r][c] == house_number:
+                    continue
+                houses_seen[r][c] += 1
+                distances[r][c] += distance
+                # find neighbors of elements
 
-        ans = float("inf")
+                for dx, dy in neighbors:
+                    new_x, new_y = r + dx, c + dy
+                    # if cell hasnt been visited & house is valid visit cell and add to q
+                    if 0 <= new_x < M and 0 <= new_y < N and houses_seen[new_x][new_y] == house_number - 1 and grid[new_x][new_y] == 0:
+                        to_visit.append((new_x, new_y, distance + 1))
 
-        for r in range(N):
-            for c in range(M):
-                if grid[r][c] == -len(buildings):
-                    ans = min(ans, solution_grid[r][c])
+
+           
+
         
-        print(grid)
-        print(solution_grid, ans)
-        return ans if ans != float("inf") else -1
-        
+        # for each house, run BFS
+        for i, (x, y) in enumerate(houses):
+            bfs(x, y, i + 1)
+        # check the grid, for each cell, see the distances
+        min_dist = float("inf")
 
-                
+        for x in range(M):
+            for y in range(N):
+                if grid[x][y] == 0 and houses_seen[x][y] == len(houses):
+                    min_dist = min(min_dist, distances[x][y])
+        print(distances, "\n", grid)
+        return min_dist if min_dist != float("inf") else -1
+        # return if not seen.
