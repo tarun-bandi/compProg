@@ -266,6 +266,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
@@ -402,6 +403,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun-bandi/compProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -600,6 +602,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 ## Backtracking
 |  |
