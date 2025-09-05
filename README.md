@@ -175,6 +175,7 @@
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/tarun-bandi/compProg/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0747-min-cost-climbing-stairs) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
@@ -416,6 +417,7 @@
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/tarun-bandi/compProg/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
