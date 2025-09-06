@@ -287,6 +287,7 @@
 | [0038-count-and-say](https://github.com/tarun-bandi/compProg/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/tarun-bandi/compProg/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/tarun-bandi/compProg/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
@@ -412,6 +413,7 @@
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/tarun-bandi/compProg/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun-bandi/compProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0124-binary-tree-maximum-path-sum) |
