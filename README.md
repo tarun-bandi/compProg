@@ -160,6 +160,7 @@
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/tarun-bandi/compProg/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
@@ -339,6 +340,7 @@
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
@@ -364,6 +366,7 @@
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/tarun-bandi/compProg/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
@@ -383,6 +386,7 @@
 | [0133-clone-graph](https://github.com/tarun-bandi/compProg/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/tarun-bandi/compProg/tree/master/0684-redundant-connection) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
@@ -391,6 +395,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/tarun-bandi/compProg/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Union Find
 |  |
@@ -414,6 +419,7 @@
 | [0198-house-robber](https://github.com/tarun-bandi/compProg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tarun-bandi/compProg/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
@@ -438,6 +444,7 @@
 | [0200-number-of-islands](https://github.com/tarun-bandi/compProg/tree/master/0200-number-of-islands) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/tarun-bandi/compProg/tree/master/0317-shortest-distance-from-all-buildings) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
@@ -609,6 +616,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
