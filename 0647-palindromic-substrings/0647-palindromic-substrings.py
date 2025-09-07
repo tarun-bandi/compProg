@@ -1,27 +1,16 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
+        n = len(s)
 
         @cache
-        def is_palindrome(start_index : int, end_index : int) -> bool:
-            if start_index == end_index: # ""
+        def is_palindrome(i, j):
+            if i > j:
                 return True
-            if start_index + 1 == end_index: # Singleton
-                return True
-            return s[start_index] == s[end_index - 1] and is_palindrome(start_index + 1, end_index - 1)
-        
+            return s[i] == s[j] and is_palindrome(i + 1, j - 1)
+
         count = 0
-        for i in range(len(s)):
-            for j in range(1, len(s) + 1):
-                if i < j and is_palindrome(i, j):
-                    count += 1
-        
+        for i in range(0, n):
+            for j in range(i, n):
+                count += 1 if is_palindrome(i, j) else 0
+
         return count
-
-
-            
-
-
-            
-                
-        
-        
