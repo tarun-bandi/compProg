@@ -1,7 +1,7 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         
-        @cache
+        # @cache
         def find_matches_from_index(i: int, j: int):
             
             if i >= len(s) and j >= len(p):
