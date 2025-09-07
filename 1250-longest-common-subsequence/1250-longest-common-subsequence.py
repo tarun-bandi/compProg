@@ -1,14 +1,17 @@
 class Solution:
     def longestCommonSubsequence(self, text1: str, text2: str) -> int:
-        @cache
-        def dfs(t1, t2):
-            if t1 >=  len(text1) or t2 >= len(text2):
-                return 0
-            else:
-                if text1[t1] == text2[t2]:
-                    return 1 + dfs(t1 + 1 , t2 + 1)
-                else:
-                    return max(dfs(t1, t2 + 1), dfs(t1 + 1, t2), dfs(t1 + 1, t2 + 1))
-        return dfs(0, 0)
-
         
+        @cache
+        def find_lcs_from_indexes(i: int, j: int):
+            if i >= len(text1) or j >= len(text2):
+                return 0
+            
+            if text1[i] == text2[j]:
+                return find_lcs_from_indexes(i + 1, j + 1) + 1
+            else:
+                skip_left = find_lcs_from_indexes(i + 1, j)
+                skip_right = find_lcs_from_indexes(i, j + 1)
+                skip_both = find_lcs_from_indexes(i + 1, j + 1)
+                return max(skip_left, skip_both, skip_right)
+        
+        return find_lcs_from_indexes(0, 0)
