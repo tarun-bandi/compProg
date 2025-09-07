@@ -286,6 +286,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tarun-bandi/compProg/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/tarun-bandi/compProg/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tarun-bandi/compProg/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/tarun-bandi/compProg/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
@@ -417,6 +418,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/tarun-bandi/compProg/tree/master/0010-regular-expression-matching) |
 | [0064-minimum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tarun-bandi/compProg/tree/master/0072-edit-distance) |
@@ -516,6 +518,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/tarun-bandi/compProg/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 ## Hash Table
