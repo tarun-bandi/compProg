@@ -1,23 +1,18 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
         
-        queue = collections.deque([s])
 
-        visited = set()
-
-        while queue:
-            word = queue.popleft()
-
-            if word in visited:
-                continue
-            else:
-                if word == "":
-                    return True
-                
-                visited.add(word)
-                for start in wordDict:
-                    if word.startswith(start):
-                        queue.append(word[len(start):])
-            
-        return False
-
+        @cache
+        def dp(i: int, j: int):
+            if i >= len(s) and j >= len(s):
+                return True
+            if j >= len(s):
+                return False
+            sting = s[i:j + 1]
+            take = False
+            if sting in wordDict:
+                take = dp(j + 1, j + 1)
+            not_take = dp(i, j + 1)
+            return take or not_take
+        
+        return dp(0, 0)
