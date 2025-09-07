@@ -1,6 +1,7 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
         
+        @cache
         def count_coin_change(index: int, amount: int):
 
             if amount == 0:
