@@ -295,6 +295,7 @@
 | [0072-edit-distance](https://github.com/tarun-bandi/compProg/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tarun-bandi/compProg/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/tarun-bandi/compProg/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun-bandi/compProg/tree/master/0208-implement-trie-prefix-tree) |
@@ -425,6 +426,7 @@
 | [0072-edit-distance](https://github.com/tarun-bandi/compProg/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tarun-bandi/compProg/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tarun-bandi/compProg/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/tarun-bandi/compProg/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tarun-bandi/compProg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/tarun-bandi/compProg/tree/master/0139-word-break) |
