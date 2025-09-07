@@ -16,7 +16,6 @@ class Solution:
                 if nums[candidate] < nums[index]:
                     longest_subsequence_before = max(longest_subsequence_before, find_LIS_ending_at(candidate))
 
-            print(f"for {index}, longest_subseq_before is {longest_subsequence_before}")
             return 1 + longest_subsequence_before
 
         longest_subseq = float("-inf")
