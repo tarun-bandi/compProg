@@ -167,6 +167,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
+| [0494-target-sum](https://github.com/tarun-bandi/compProg/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
@@ -436,6 +437,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
+| [0494-target-sum](https://github.com/tarun-bandi/compProg/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
@@ -639,6 +641,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tarun-bandi/compProg/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0494-target-sum](https://github.com/tarun-bandi/compProg/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
