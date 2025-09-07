@@ -8,9 +8,9 @@ class Solution:
                 return True
             if j >= len(s):
                 return False
-            sting = s[i:j + 1]
+            strng = s[i:j + 1]
             take = False
-            if sting in wordDict:
+            if strng in wordDict:
                 take = dp(j + 1, j + 1)
             not_take = dp(i, j + 1)
             return take or not_take
