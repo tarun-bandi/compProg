@@ -272,6 +272,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/tarun-bandi/compProg/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/tarun-bandi/compProg/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/tarun-bandi/compProg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
@@ -421,6 +422,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tarun-bandi/compProg/tree/master/0010-regular-expression-matching) |
+| [0062-unique-paths](https://github.com/tarun-bandi/compProg/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/tarun-bandi/compProg/tree/master/0072-edit-distance) |
@@ -647,6 +649,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tarun-bandi/compProg/tree/master/0062-unique-paths) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
