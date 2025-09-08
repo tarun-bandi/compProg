@@ -275,6 +275,7 @@
 | [0062-unique-paths](https://github.com/tarun-bandi/compProg/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/tarun-bandi/compProg/tree/master/0279-perfect-squares) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
@@ -375,6 +376,7 @@
 | [0200-number-of-islands](https://github.com/tarun-bandi/compProg/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tarun-bandi/compProg/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tarun-bandi/compProg/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/tarun-bandi/compProg/tree/master/0279-perfect-squares) |
 | [0317-shortest-distance-from-all-buildings](https://github.com/tarun-bandi/compProg/tree/master/0317-shortest-distance-from-all-buildings) |
 | [0322-coin-change](https://github.com/tarun-bandi/compProg/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -435,6 +437,7 @@
 | [0152-maximum-product-subarray](https://github.com/tarun-bandi/compProg/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tarun-bandi/compProg/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tarun-bandi/compProg/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/tarun-bandi/compProg/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tarun-bandi/compProg/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/tarun-bandi/compProg/tree/master/0322-coin-change) |
