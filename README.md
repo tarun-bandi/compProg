@@ -186,6 +186,7 @@
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1028-interval-list-intersections](https://github.com/tarun-bandi/compProg/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
@@ -282,6 +283,7 @@
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
+| [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tarun-bandi/compProg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
@@ -453,6 +455,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/tarun-bandi/compProg/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
+| [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tarun-bandi/compProg/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -695,4 +698,8 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun-bandi/compProg/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
