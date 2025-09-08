@@ -1,19 +1,17 @@
 class Solution:
     def combinationSum4(self, nums: List[int], target: int) -> int:
-
+        
         @cache
-        def count_combos(combo_sum) -> int:
-            if combo_sum > target:
-                return 0
-            elif combo_sum == target:
+        def dp(curr_target: int) -> int:
+            if curr_target == target:
                 return 1
+            if curr_target > target:
+                return 0
 
             res = 0
-            for i in range(len(nums)):
-                res += count_combos(combo_sum + nums[i])
+            for n in nums:
+                res += dp(curr_target + n)
             
             return res
-
-            
-        return count_combos(0)
         
+        return dp(0)
