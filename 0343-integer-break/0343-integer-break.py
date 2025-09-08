@@ -1,6 +1,7 @@
 class Solution:
     def integerBreak(self, n: int) -> int:
 
+        @cache
         def find_largest_product(N: int):
             if N <= 3:
                 return N
