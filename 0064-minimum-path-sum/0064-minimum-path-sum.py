@@ -1,20 +1,18 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        
+
         @cache
-        def dp(x, y):
-            if x >= len(grid) or y >= len(grid[0]):
-                return float("inf")
-            if x == len(grid) - 1 and y == len(grid[0]) - 1:
-                return grid[x][y]
-            
-            curr_path_size = float("inf")
+        def dp(i: int, j: int):
+            if i == len(grid) - 1 and j == len(grid[0]) - 1:
+                return 0
 
-            dirs = [(0, 1), (1, 0)]
+            if i == len(grid) - 1:
+                return grid[i][j + 1] + dp(i, j + 1)
+            if j == len(grid[0]) - 1:
+                return grid[i + 1][j] + dp(i + 1, j)
 
-            for dx, dy in dirs:
-                curr_path_size = min(curr_path_size, dp(x + dx, y + dy))
-            
-            return curr_path_size + grid[x][y]
-        
-        return dp(0, 0)
+            return min(grid[i][j + 1] + dp(i, j + 1), grid[i + 1][j] + dp(i + 1, j))
+
+        return dp(0, 0) + grid[0][0]
+
+
