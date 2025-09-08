@@ -284,6 +284,7 @@
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/tarun-bandi/compProg/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tarun-bandi/compProg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
@@ -459,6 +460,7 @@
 | [1063-best-sightseeing-pair](https://github.com/tarun-bandi/compProg/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/tarun-bandi/compProg/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tarun-bandi/compProg/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1617-stone-game-iv](https://github.com/tarun-bandi/compProg/tree/master/1617-stone-game-iv) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/tarun-bandi/compProg/tree/master/2262-solving-questions-with-brainpower) |
@@ -702,4 +704,5 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
+| [1617-stone-game-iv](https://github.com/tarun-bandi/compProg/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
