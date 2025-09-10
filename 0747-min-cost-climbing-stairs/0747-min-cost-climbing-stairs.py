@@ -1,22 +1,8 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        
-        cache = [None for _ in range(len(cost))]
-        cache[-1] = cost[-1]
-        cache[-2] = cost[-2]
+        n = len(cost)
 
-        for i in range(len(cost) - 3, -1, -1):
-            cache[i] = min(cache[i + 1], cache[i + 2]) + cost[i]
-        
-        return min(cache[0], cache[1])
-
-            
-
-        @cache
-        def dp(i: int) -> int:
-            if i >= len(cost):
-                return 0
-            
-            return min(dp(i + 1), dp(i + 2)) + cost[i]
-        
-        return min(dp(0), dp(1))
+        a, b = cost[0], cost[1]  # a = dp[i-2], b = dp[i-1]
+        for i in range(2, n):
+            a, b = b, cost[i] + min(a, b)
+        return min(a, b)
