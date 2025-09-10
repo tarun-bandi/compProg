@@ -1,18 +1,17 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
-        # dp = [0 for _ in range(n + 2)]
-        dp_i2 = 0
-        dp_i1 = 0
+        rob_after_i2 = 0
+        rob_after_i1 = 0
 
         for i in range(n - 1, -1, -1):
-            take = nums[i] + dp_i2
-            dont_take = dp_i1
+            take = nums[i] + rob_after_i2
+            dont_take = rob_after_i1
 
-            dp_i2 = dp_i1
-            dp_i1 = max(take, dont_take)
+            rob_after_i2 = rob_after_i1
+            rob_after_i1 = max(take, dont_take)
         
-        return dp_i1
+        return rob_after_i1
         
         @cache
         def dp(i: int):
