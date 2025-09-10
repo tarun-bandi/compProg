@@ -10,13 +10,15 @@ class Solution:
 
             
 
-        count_ways_values = [None] * (n + 1)
+        # count_ways_values = [None] * (n + 1)
 
-        count_ways_values[0] = 1
-        count_ways_values[1] = 1
+        two_before = 1
+        one_before = 1
         for i in range(2, n + 1):
-            count_ways_values[i] = count_ways_values[i - 1] + count_ways_values[i - 2]
-        return count_ways_values[-1]
+            curr_result = two_before + one_before
+            two_before = one_before
+            one_before = curr_result
+        return one_before
 
         @cache
         def count_ways(i: int):
