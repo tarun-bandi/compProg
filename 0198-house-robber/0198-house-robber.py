@@ -2,10 +2,11 @@ class Solution:
     def rob(self, nums: List[int]) -> int:
         
         @cache
-        def rob_from(i: int) -> int:
+        def dp(i: int):
             if i >= len(nums):
                 return 0
-            
-            return max(rob_from(i + 2) + nums[i], rob_from(i + 1))
+            take = nums[i] + dp(i + 2)
+            not_take = dp(i + 1)
+            return max(take, not_take)
         
-        return rob_from(0)
+        return dp(0)
