@@ -1,10 +1,17 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        
-        # Subsequences = 2^n 
-        # Greedy or Dynamic Programming approach
+        n: int = len(nums)
+        LIS_ending_at = [0 for _ in range(len(nums))]
+        LIS_ending_at[0] = 1
 
-        # Subproblems: Subsequence ending at index i 
+        for i in range(1, n):
+            longest_subsequence_before = 0
+            for candidate in range(0, i):
+                if nums[candidate] < nums[i]:
+                    longest_subsequence_before = max(longest_subsequence_before, LIS_ending_at[candidate])
+            LIS_ending_at[i] = longest_subsequence_before + 1
+        
+        return max(LIS_ending_at)
 
         @cache
         def find_LIS_ending_at(index: int) -> int:
