@@ -1,18 +1,24 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp = [[float("inf")] * (amount + 1) for _ in range(len(coins) + 1)]
-        for i in range(len(coins) + 1):
-            dp[i][0] = 0
+        dpi1 = [float("inf")] * (amount + 1)
+        dpi1[0] = 0
+
+        dpi = [float("inf")] * (amount + 1)
+        dpi[0] = 0
 
         for i in range(len(coins) -1, -1, -1):
             for amt in range(1, amount + 1):
                 take = float('inf')
                 if coins[i] <= amt:
-                    take = dp[i][amt - coins[i]] + 1
-                dont_take = dp[i + 1][amt]
-                dp[i][amt] = min(take, dont_take)
+                    take = dpi[amt - coins[i]] + 1
+                dont_take = dpi1[amt]
+                dpi[amt] = min(take, dont_take)
+
+            dpi1 = dpi
+            dpi = [float("inf")] * (amount + 1)
+            dpi[0] = 0
         
-        return dp[0][amount] if dp[0][amount] != float('inf') else -1
+        return dpi1[amount] if dpi1[amount] != float('inf') else -1
 
         @cache
         def dp(i: int, amt: int) -> int:
