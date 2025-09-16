@@ -157,6 +157,7 @@
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tarun-bandi/compProg/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0252-meeting-rooms](https://github.com/tarun-bandi/compProg/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
@@ -240,6 +241,7 @@
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/tarun-bandi/compProg/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
