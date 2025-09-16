@@ -157,6 +157,7 @@
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tarun-bandi/compProg/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
@@ -219,6 +220,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
@@ -238,6 +240,7 @@
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
@@ -577,6 +580,7 @@
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
+| [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
@@ -611,6 +615,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tarun-bandi/compProg/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -638,6 +643,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tarun-bandi/compProg/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tarun-bandi/compProg/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
