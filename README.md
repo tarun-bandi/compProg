@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tarun-bandi/compProg/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/tarun-bandi/compProg/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/tarun-bandi/compProg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
@@ -236,6 +237,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tarun-bandi/compProg/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
@@ -580,6 +582,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/tarun-bandi/compProg/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tarun-bandi/compProg/tree/master/0125-valid-palindrome) |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
