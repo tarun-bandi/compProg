@@ -186,6 +186,7 @@
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/tarun-bandi/compProg/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0747-min-cost-climbing-stairs) |
+| [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
@@ -268,6 +269,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-bandi/compProg/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tarun-bandi/compProg/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -569,6 +571,7 @@
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
+| [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -713,9 +716,14 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tarun-bandi/compProg/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
+| [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 ## Game Theory
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 | [1617-stone-game-iv](https://github.com/tarun-bandi/compProg/tree/master/1617-stone-game-iv) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
