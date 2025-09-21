@@ -179,6 +179,7 @@
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/tarun-bandi/compProg/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/tarun-bandi/compProg/tree/master/0636-exclusive-time-of-functions) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
+| [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
@@ -252,6 +254,7 @@
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
+| [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
@@ -573,6 +576,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/tarun-bandi/compProg/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
@@ -632,6 +636,7 @@
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/tarun-bandi/compProg/tree/master/1127-last-stone-weight) |
@@ -697,6 +702,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Bit Manipulation
