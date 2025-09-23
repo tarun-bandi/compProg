@@ -188,6 +188,7 @@
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/tarun-bandi/compProg/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/tarun-bandi/compProg/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/tarun-bandi/compProg/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
@@ -529,6 +530,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0792-binary-search](https://github.com/tarun-bandi/compProg/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
