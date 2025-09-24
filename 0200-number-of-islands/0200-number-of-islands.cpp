@@ -1,47 +1,63 @@
 class Solution {
-private:
-    int directions[4][2] = {{1, 0}, {-1, 0},
-                                {0, 1}, {0, -1}};
-    bool is_valid(vector<vector<char>>& grid, int x, int y){
-        if (x < 0 || x >= grid.size()) return false;
-        if (y < 0 || y >= grid[0].size()) return false;
-        if (grid[x][y] == '0') return false;
-        return true;
+
+struct pair_hash {
+    size_t operator()(const std::pair<int,int>& p) const {
+        return std::hash<int>()(p.first) ^ (std::hash<int>()(p.second) << 1);
     }
-    void bfs(vector<vector<char>>& grid, int x, int y){
+};
+public:
+
+    bool is_valid_cell(int x, int y, vector<vector<char>>& grid){
+        if (x >= grid.size() || x < 0) return false;
+        if (y >= grid[0].size() || y < 0) return false;
+
+        if (grid[x][y] == '0') return false;
+
+        return true; 
+    }
+    void bfs(int x, int y, unordered_set<pair<int, int>, pair_hash>& seen, vector<vector<char>>& grid){
         queue<pair<int, int>> q;
         q.push({x, y});
-        while ( !q.empty() ){
-            auto node = q.front();q.pop();
-            int row = node.first, col = node.second;
-            if (grid[row][col] == '0') continue;
-            grid[row][col] = '0';
-            for(int i = 0; i < 4; ++i){
-                int new_row = directions[i][0] + row;
-                int new_col = directions[i][1] + col;
 
-                if (is_valid(grid, new_row, new_col)){
-                    q.push({new_row, new_col});
+        while (!q.empty()){
+            pair<int, int> curr_cell = q.front();
+            q.pop();
+            int i = curr_cell.first;
+            int j = curr_cell.second;
+            if (seen.find(curr_cell) != seen.end()){
+                continue;
+            }
+            seen.insert(curr_cell); 
+
+            vector<pair<int, int>> neighbors = {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
+
+            for (int k = 0; k < 4; ++k){
+                pair<int, int> neighbor = neighbors[k];
+                int new_i = i + neighbor.first;
+                int new_j = j + neighbor.second;
+                if (is_valid_cell(new_i, new_j, grid)){
+                    q.push({new_i, new_j});
                 }
             }
         }
-
     }
-public:
     int numIslands(vector<vector<char>>& grid) {
         
-        int n = grid.size();
-        int m = grid[0].size();
-        int cells = 0;
-        for (int i = 0; i < n; ++i){
-            for (int j = 0; j < m; ++j){
-                if (grid[i][j] == '1'){
-                    bfs(grid, i, j);
-                    ++cells;
+        int m = grid.size();
+        int n = grid[0].size();
+        unordered_set<pair<int, int>, pair_hash> seen;
+        int cell_ct = 0;
+        for (int i = 0; i < m; ++i){
+            for (int j = 0; j < n; ++j){
+                if (grid[i][j] == '1' && seen.find({i, j}) == seen.end()){
+                    cell_ct++;
+                    bfs(i, j, seen, grid);
                 }
             }
         }
-        return cells;
-        
+
+        return cell_ct;
+
+
     }
 };
