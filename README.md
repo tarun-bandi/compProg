@@ -173,6 +173,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
+| [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/tarun-bandi/compProg/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tarun-bandi/compProg/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/tarun-bandi/compProg/tree/master/0529-minesweeper) |
@@ -579,6 +580,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/tarun-bandi/compProg/tree/master/0609-find-duplicate-file-in-system) |
 | [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
@@ -632,6 +634,7 @@
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -644,6 +647,7 @@
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
