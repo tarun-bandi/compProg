@@ -172,6 +172,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
 | [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/tarun-bandi/compProg/tree/master/0494-target-sum) |
@@ -299,6 +300,7 @@
 | [0279-perfect-squares](https://github.com/tarun-bandi/compProg/tree/master/0279-perfect-squares) |
 | [0296-best-meeting-point](https://github.com/tarun-bandi/compProg/tree/master/0296-best-meeting-point) |
 | [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
@@ -578,6 +580,7 @@
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
@@ -746,6 +749,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/tarun-bandi/compProg/tree/master/0208-implement-trie-prefix-tree) |
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 ## Game Theory
@@ -762,4 +766,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
