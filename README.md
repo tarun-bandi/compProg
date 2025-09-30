@@ -140,6 +140,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tarun-bandi/compProg/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/tarun-bandi/compProg/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/tarun-bandi/compProg/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/tarun-bandi/compProg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tarun-bandi/compProg/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tarun-bandi/compProg/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tarun-bandi/compProg/tree/master/0063-unique-paths-ii) |
@@ -229,6 +230,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tarun-bandi/compProg/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/tarun-bandi/compProg/tree/master/0624-maximum-distance-in-arrays) |
@@ -450,6 +452,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tarun-bandi/compProg/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tarun-bandi/compProg/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/tarun-bandi/compProg/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tarun-bandi/compProg/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tarun-bandi/compProg/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tarun-bandi/compProg/tree/master/0064-minimum-path-sum) |
