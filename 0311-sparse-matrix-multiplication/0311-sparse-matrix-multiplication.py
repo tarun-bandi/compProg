@@ -9,8 +9,6 @@ class Solution:
         for i in range(n):
             for j in range(m):
                 for l in range(k):
-                    print(i, j, l)
-                    print(n, m, k)
                     res[j][i] += mat1[j][l] * mat2[l][i]
             
         return res
