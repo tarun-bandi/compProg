@@ -175,6 +175,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
@@ -546,6 +547,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tarun-bandi/compProg/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tarun-bandi/compProg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
+| [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/tarun-bandi/compProg/tree/master/0792-binary-search) |
@@ -643,6 +645,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sliding Window
@@ -766,6 +769,7 @@
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
@@ -782,6 +786,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
+| [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
