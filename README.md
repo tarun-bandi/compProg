@@ -212,6 +212,7 @@
 | [1127-last-stone-weight](https://github.com/tarun-bandi/compProg/tree/master/1127-last-stone-weight) |
 | [1333-sort-the-jumbled-numbers](https://github.com/tarun-bandi/compProg/tree/master/1333-sort-the-jumbled-numbers) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/tarun-bandi/compProg/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tarun-bandi/compProg/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tarun-bandi/compProg/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -621,6 +622,7 @@
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun-bandi/compProg/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -653,6 +655,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
+| [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sliding Window
@@ -780,6 +783,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
+| [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -795,6 +799,7 @@
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 ## Randomized
 |  |
 | ------- |
