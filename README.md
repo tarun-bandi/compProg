@@ -199,6 +199,7 @@
 | [0792-binary-search](https://github.com/tarun-bandi/compProg/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
+| [0833-bus-routes](https://github.com/tarun-bandi/compProg/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
@@ -426,6 +427,7 @@
 | [0690-employee-importance](https://github.com/tarun-bandi/compProg/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tarun-bandi/compProg/tree/master/0721-accounts-merge) |
+| [0833-bus-routes](https://github.com/tarun-bandi/compProg/tree/master/0833-bus-routes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -620,6 +622,7 @@
 | [0807-custom-sort-string](https://github.com/tarun-bandi/compProg/tree/master/0807-custom-sort-string) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
+| [0833-bus-routes](https://github.com/tarun-bandi/compProg/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
