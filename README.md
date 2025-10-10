@@ -176,6 +176,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/tarun-bandi/compProg/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
+| [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0377-combination-sum-iv](https://github.com/tarun-bandi/compProg/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
+| [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/tarun-bandi/compProg/tree/master/2048-build-array-from-permutation) |
@@ -609,6 +611,7 @@
 | [0311-sparse-matrix-multiplication](https://github.com/tarun-bandi/compProg/tree/master/0311-sparse-matrix-multiplication) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
+| [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -659,6 +662,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tarun-bandi/compProg/tree/master/0239-sliding-window-maximum) |
+| [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -784,6 +788,7 @@
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
+| [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
