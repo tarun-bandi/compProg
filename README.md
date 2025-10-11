@@ -288,6 +288,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/tarun-bandi/compProg/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tarun-bandi/compProg/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/tarun-bandi/compProg/tree/master/0138-copy-list-with-random-pointer) |
+| [0432-all-oone-data-structure](https://github.com/tarun-bandi/compProg/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1484-linked-list-in-binary-tree) |
@@ -614,6 +615,7 @@
 | [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/tarun-bandi/compProg/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/tarun-bandi/compProg/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
@@ -713,6 +715,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/tarun-bandi/compProg/tree/master/0432-all-oone-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/tarun-bandi/compProg/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Prefix Sum
 |  |
@@ -791,6 +794,7 @@
 | [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/tarun-bandi/compProg/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
