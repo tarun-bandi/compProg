@@ -1,18 +1,9 @@
 class Solution:
-    def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
-        
-        events = sorted(zip(startTime, endTime, profit))
-        
-
-        @cache
-        def dp(time: int) -> int:
-            if time == len(events):
-                return 0
-                
-            start, end, profit = events[time]
-            next_event_idx = bisect.bisect_left(events, (end, 0, 0))
-
-            return max(profit + dp(next_event_idx), dp(time + 1))
-        
-        return dp(0)
-
+    def jobScheduling(self, startTime, endTime, profit):
+        jobs = sorted(zip(startTime, endTime, profit), key=lambda v: v[1])
+        dp = [[0, 0]]
+        for s, e, p in jobs:
+            i = bisect.bisect(dp, [s + 1]) - 1
+            if dp[i][1] + p > dp[-1][1]:
+                dp.append([e, dp[i][1] + p])
+        return dp[-1][1]
