@@ -301,6 +301,7 @@
 | [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
+| [1708-design-parking-system](https://github.com/tarun-bandi/compProg/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/tarun-bandi/compProg/tree/master/2048-build-array-from-permutation) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/tarun-bandi/compProg/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
@@ -764,6 +765,7 @@
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tarun-bandi/compProg/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
+| [1708-design-parking-system](https://github.com/tarun-bandi/compProg/tree/master/1708-design-parking-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Bit Manipulation
 |  |
@@ -803,6 +805,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
 | [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
+| [1708-design-parking-system](https://github.com/tarun-bandi/compProg/tree/master/1708-design-parking-system) |
 | [2429-design-a-food-rating-system](https://github.com/tarun-bandi/compProg/tree/master/2429-design-a-food-rating-system) |
 ## Game Theory
 |  |
