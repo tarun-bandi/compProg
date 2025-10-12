@@ -378,6 +378,7 @@
 | [0739-daily-temperatures](https://github.com/tarun-bandi/compProg/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tarun-bandi/compProg/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/tarun-bandi/compProg/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1270-dinner-plate-stacks](https://github.com/tarun-bandi/compProg/tree/master/1270-dinner-plate-stacks) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/tarun-bandi/compProg/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/tarun-bandi/compProg/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -634,6 +635,7 @@
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tarun-bandi/compProg/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1270-dinner-plate-stacks](https://github.com/tarun-bandi/compProg/tree/master/1270-dinner-plate-stacks) |
 | [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun-bandi/compProg/tree/master/2215-finding-3-digit-even-numbers) |
@@ -699,6 +701,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tarun-bandi/compProg/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/tarun-bandi/compProg/tree/master/1127-last-stone-weight) |
+| [1270-dinner-plate-stacks](https://github.com/tarun-bandi/compProg/tree/master/1270-dinner-plate-stacks) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/tarun-bandi/compProg/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2429-design-a-food-rating-system](https://github.com/tarun-bandi/compProg/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Queue
@@ -804,6 +807,7 @@
 | [0432-all-oone-data-structure](https://github.com/tarun-bandi/compProg/tree/master/0432-all-oone-data-structure) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/tarun-bandi/compProg/tree/master/0817-design-hashmap) |
+| [1270-dinner-plate-stacks](https://github.com/tarun-bandi/compProg/tree/master/1270-dinner-plate-stacks) |
 | [1366-first-unique-number](https://github.com/tarun-bandi/compProg/tree/master/1366-first-unique-number) |
 | [1708-design-parking-system](https://github.com/tarun-bandi/compProg/tree/master/1708-design-parking-system) |
 | [2429-design-a-food-rating-system](https://github.com/tarun-bandi/compProg/tree/master/2429-design-a-food-rating-system) |
