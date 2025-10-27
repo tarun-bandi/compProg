@@ -226,6 +226,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun-bandi/compProg/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tarun-bandi/compProg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/tarun-bandi/compProg/tree/master/2262-solving-questions-with-brainpower) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/tarun-bandi/compProg/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
@@ -322,6 +323,7 @@
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 | [1617-stone-game-iv](https://github.com/tarun-bandi/compProg/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tarun-bandi/compProg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tarun-bandi/compProg/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
@@ -365,6 +367,7 @@
 | [1894-merge-strings-alternately](https://github.com/tarun-bandi/compProg/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/tarun-bandi/compProg/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tarun-bandi/compProg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2429-design-a-food-rating-system](https://github.com/tarun-bandi/compProg/tree/master/2429-design-a-food-rating-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3617-find-the-original-typed-string-i](https://github.com/tarun-bandi/compProg/tree/master/3617-find-the-original-typed-string-i) |
@@ -536,6 +539,7 @@
 | [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tarun-bandi/compProg/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/tarun-bandi/compProg/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tarun-bandi/compProg/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Tree
 |  |
 | ------- |
