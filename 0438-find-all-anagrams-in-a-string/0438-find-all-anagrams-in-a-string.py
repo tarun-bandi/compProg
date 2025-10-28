@@ -1,39 +1,27 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-
-        if len(p) > len(s):
+        ns, np = len(s), len(p)
+        if ns < np:
             return []
 
-        def char_to_index(char: str) -> int:
-            """ Uses ord to convert lowercase char to place in alphabet """
-            return ord(char) - ord('a')
-
-        anagram_list = []
-        s_counts = [0] * 26
-        p_counts = [0] * 26
-
-        for index in range(len(p)):
-
-            p_counts[char_to_index(p[index])] += 1
-            s_counts[char_to_index(s[index])] += 1
+        p_count, s_count = [0] * 26, [0] * 26
+        # build reference array using string p
+        for ch in p:
+            p_count[ord(ch) - ord('a')] += 1
         
-        indeces = []
-        for index in range(len(p), len(s)):
-            if s_counts == p_counts:
-                indeces.append(index - len(p))
-
-            s_counts[char_to_index(s[index - len(p)])] -= 1
-            s_counts[char_to_index(s[index])] += 1
-            index += 1
-        if s_counts == p_counts:
-            indeces.append(len(s) - len(p))
+        output = []
+        # sliding window on the string s
+        for i in range(ns):
+            # add one more letter 
+            # on the right side of the window
+            s_count[ord(s[i]) - ord('a')] += 1
+            # remove one letter 
+            # from the left side of the window
+            if i >= np:
+                s_count[ord(s[i - np]) - ord('a')] -= 1
+            # compare array in the sliding window
+            # with the reference array
+            if p_count == s_count:
+                output.append(i - np + 1)
         
-        return indeces
-
-        
-
-
-
-
-
-        
+        return output
