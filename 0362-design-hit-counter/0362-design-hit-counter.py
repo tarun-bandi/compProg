@@ -1,17 +1,17 @@
 class HitCounter:
 
     def __init__(self):
-        self.hit_list = []
+        self.hit_list = collections.deque()
         
 
     def hit(self, timestamp: int) -> None:
-        heapq.heappush(self.hit_list, timestamp)
+        self.hit_list.append(timestamp)
         
 
     def getHits(self, timestamp: int) -> int:
         while self.hit_list and timestamp - self.hit_list[0] >= 300:
-            heapq.heappop(self.hit_list)
-        
+            self.hit_list.popleft()
+
         return len(self.hit_list)
         
 
