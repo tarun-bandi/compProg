@@ -348,6 +348,7 @@
 | [0269-alien-dictionary](https://github.com/tarun-bandi/compProg/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/tarun-bandi/compProg/tree/master/0271-encode-and-decode-strings) |
 | [0273-integer-to-english-words](https://github.com/tarun-bandi/compProg/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/tarun-bandi/compProg/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/tarun-bandi/compProg/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tarun-bandi/compProg/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -616,6 +617,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/tarun-bandi/compProg/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/tarun-bandi/compProg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tarun-bandi/compProg/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/tarun-bandi/compProg/tree/master/0290-word-pattern) |
 | [0305-number-of-islands-ii](https://github.com/tarun-bandi/compProg/tree/master/0305-number-of-islands-ii) |
 | [0311-sparse-matrix-multiplication](https://github.com/tarun-bandi/compProg/tree/master/0311-sparse-matrix-multiplication) |
 | [0347-top-k-frequent-elements](https://github.com/tarun-bandi/compProg/tree/master/0347-top-k-frequent-elements) |
