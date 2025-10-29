@@ -236,6 +236,7 @@
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/tarun-bandi/compProg/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tarun-bandi/compProg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Greedy
 |  |
@@ -742,6 +743,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tarun-bandi/compProg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Trie
 |  |
 | ------- |
