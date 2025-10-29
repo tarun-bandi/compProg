@@ -237,6 +237,7 @@
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/tarun-bandi/compProg/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/tarun-bandi/compProg/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Greedy
 |  |
@@ -283,6 +284,7 @@
 | [2213-find-all-people-with-secret](https://github.com/tarun-bandi/compProg/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tarun-bandi/compProg/tree/master/2215-finding-3-digit-even-numbers) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Linked List
 |  |
@@ -521,6 +523,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/tarun-bandi/compProg/tree/master/2262-solving-questions-with-brainpower) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
@@ -582,6 +585,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/tarun-bandi/compProg/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -651,6 +655,7 @@
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2429-design-a-food-rating-system](https://github.com/tarun-bandi/compProg/tree/master/2429-design-a-food-rating-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tarun-bandi/compProg/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -667,6 +672,7 @@
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
 | [1028-interval-list-intersections](https://github.com/tarun-bandi/compProg/tree/master/1028-interval-list-intersections) |
 | [1894-merge-strings-alternately](https://github.com/tarun-bandi/compProg/tree/master/1894-merge-strings-alternately) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -779,6 +785,7 @@
 | [0829-subdomain-visit-count](https://github.com/tarun-bandi/compProg/tree/master/0829-subdomain-visit-count) |
 | [1708-design-parking-system](https://github.com/tarun-bandi/compProg/tree/master/1708-design-parking-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
