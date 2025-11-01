@@ -203,6 +203,7 @@
 | [0833-bus-routes](https://github.com/tarun-bandi/compProg/tree/master/0833-bus-routes) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tarun-bandi/compProg/tree/master/0875-longest-mountain-in-array) |
+| [0898-transpose-matrix](https://github.com/tarun-bandi/compProg/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
@@ -304,6 +305,7 @@
 | [0348-design-tic-tac-toe](https://github.com/tarun-bandi/compProg/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/tarun-bandi/compProg/tree/master/0353-design-snake-game) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/tarun-bandi/compProg/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/tarun-bandi/compProg/tree/master/1708-design-parking-system) |
 | [2048-build-array-from-permutation](https://github.com/tarun-bandi/compProg/tree/master/2048-build-array-from-permutation) |
@@ -541,6 +543,7 @@
 | [0542-01-matrix](https://github.com/tarun-bandi/compProg/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tarun-bandi/compProg/tree/master/0695-max-area-of-island) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
+| [0898-transpose-matrix](https://github.com/tarun-bandi/compProg/tree/master/0898-transpose-matrix) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/tarun-bandi/compProg/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
