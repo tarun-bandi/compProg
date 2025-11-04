@@ -324,6 +324,7 @@
 | [0343-integer-break](https://github.com/tarun-bandi/compProg/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/tarun-bandi/compProg/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
@@ -584,6 +585,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/tarun-bandi/compProg/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/tarun-bandi/compProg/tree/master/0362-design-hit-counter) |
 | [0436-find-right-interval](https://github.com/tarun-bandi/compProg/tree/master/0436-find-right-interval) |
+| [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/tarun-bandi/compProg/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
@@ -676,6 +678,7 @@
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/tarun-bandi/compProg/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/tarun-bandi/compProg/tree/master/0295-find-median-from-data-stream) |
+| [0633-sum-of-square-numbers](https://github.com/tarun-bandi/compProg/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/tarun-bandi/compProg/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/tarun-bandi/compProg/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/tarun-bandi/compProg/tree/master/0868-push-dominoes) |
