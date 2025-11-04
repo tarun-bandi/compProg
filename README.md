@@ -206,6 +206,7 @@
 | [0898-transpose-matrix](https://github.com/tarun-bandi/compProg/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
+| [0912-random-pick-with-weight](https://github.com/tarun-bandi/compProg/tree/master/0912-random-pick-with-weight) |
 | [0971-shortest-bridge](https://github.com/tarun-bandi/compProg/tree/master/0971-shortest-bridge) |
 | [1028-interval-list-intersections](https://github.com/tarun-bandi/compProg/tree/master/1028-interval-list-intersections) |
 | [1036-rotting-oranges](https://github.com/tarun-bandi/compProg/tree/master/1036-rotting-oranges) |
@@ -326,6 +327,7 @@
 | [0670-maximum-swap](https://github.com/tarun-bandi/compProg/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/tarun-bandi/compProg/tree/master/0870-magic-squares-in-grid) |
 | [0909-stone-game](https://github.com/tarun-bandi/compProg/tree/master/0909-stone-game) |
+| [0912-random-pick-with-weight](https://github.com/tarun-bandi/compProg/tree/master/0912-random-pick-with-weight) |
 | [1617-stone-game-iv](https://github.com/tarun-bandi/compProg/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/tarun-bandi/compProg/tree/master/1642-water-bottles) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tarun-bandi/compProg/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -581,6 +583,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/tarun-bandi/compProg/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0792-binary-search](https://github.com/tarun-bandi/compProg/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tarun-bandi/compProg/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/tarun-bandi/compProg/tree/master/0912-random-pick-with-weight) |
 | [0975-range-sum-of-bst](https://github.com/tarun-bandi/compProg/tree/master/0975-range-sum-of-bst) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tarun-bandi/compProg/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -749,6 +752,7 @@
 | [0238-product-of-array-except-self](https://github.com/tarun-bandi/compProg/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/tarun-bandi/compProg/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/tarun-bandi/compProg/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/tarun-bandi/compProg/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/tarun-bandi/compProg/tree/master/1046-max-consecutive-ones-iii) |
 | [1694-make-sum-divisible-by-p](https://github.com/tarun-bandi/compProg/tree/master/1694-make-sum-divisible-by-p) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/tarun-bandi/compProg/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -851,4 +855,5 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/tarun-bandi/compProg/tree/master/0380-insert-delete-getrandom-o1) |
+| [0912-random-pick-with-weight](https://github.com/tarun-bandi/compProg/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
