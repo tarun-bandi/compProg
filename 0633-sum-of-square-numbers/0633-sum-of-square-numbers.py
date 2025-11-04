@@ -1,14 +1,11 @@
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
-        sqr_set = set()
-        num = 0
-        sqr = 0
-        while sqr <= c:
-            sqr = num**2
-            sqr_set.add(sqr)
-            if (c - sqr) in sqr_set:
-                return True
-            num += 1
-        return False
-
         
+        i = 0
+        while i**2 <= c:
+            if (c - i**2)**0.5 == int((c - i**2)**0.5):
+                return True
+            i += 1
+            
+        
+        return False
