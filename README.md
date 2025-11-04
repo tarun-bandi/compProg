@@ -258,6 +258,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun-bandi/compProg/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/tarun-bandi/compProg/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tarun-bandi/compProg/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/tarun-bandi/compProg/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3779-eat-pizzas](https://github.com/tarun-bandi/compProg/tree/master/3779-eat-pizzas) |
 ## Sorting
 |  |
@@ -533,6 +534,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/tarun-bandi/compProg/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/tarun-bandi/compProg/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/tarun-bandi/compProg/tree/master/2262-solving-questions-with-brainpower) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/tarun-bandi/compProg/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2869-longest-non-decreasing-subarray-from-two-arrays](https://github.com/tarun-bandi/compProg/tree/master/2869-longest-non-decreasing-subarray-from-two-arrays) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/tarun-bandi/compProg/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3637-count-number-of-balanced-permutations](https://github.com/tarun-bandi/compProg/tree/master/3637-count-number-of-balanced-permutations) |
@@ -807,6 +809,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tarun-bandi/compProg/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/tarun-bandi/compProg/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/tarun-bandi/compProg/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
